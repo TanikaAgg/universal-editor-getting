@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/TanikaAgg/universal-editor-getting-started/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/TanikaAgg/universal-editor-getting/main"
     type: "markup"
     suffix: ".html"
